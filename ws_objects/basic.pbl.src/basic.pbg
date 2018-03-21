@@ -1,0 +1,8 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "basic.pbl" "";
+@end;
+@begin Objects 
+ "basic.sra" "basic.pbl";
+ "wn_basic.srw" "basic.pbl";
+@end;
